@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Deivite Oliveira 👋
 
-- 🌱 Estou estudando programação Java...🎒🧭📚
+- 🌱 Estou estudando Java language...🎒🧭📚
 - 💬 Ask me about ... deiviteoliveira03@gmail.com
 - 😄 Pronouns: ele/dele
 
