@@ -2,7 +2,7 @@
 
 - 🌱 Estou estudando programação Java...🎒🧭📚
 - 💬 Ask me about ... deiviteoliveira03@gmail.com
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/deiviteoliveira">
