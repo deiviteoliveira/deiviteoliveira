@@ -1,7 +1,4 @@
 ### Olá! Eu sou o Deivite Oliveira 👋
-
-- Apaixonado por Games e Tecnologia e que adora trabalhar e lidar com pessoas, sempre na busca continua de estar em constante evolução pessoal e profissional. 🕹️💻🌱
-Sou um curioso nato e que busca conhecimento na leitura e no entretenimento. Formado como Desenvolvedor Full Stack Java Jr vim da área de vendas e estou aqui para conquistar o meu espaço na área Tech, focado em continuar em busca de conhecimento e contribuindo com meu aprendizado em cada ciclo da vida que nos é oferecido.
 The sky is the limit 🌎
 
 <div align="center">
