@@ -13,6 +13,9 @@ The sky is the limit 🌎
   <img align="center" alt="Deivite-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" "">
    <img align="center" alt="Deivite-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" "">
    <img align="center" alt="Deivite-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" "">
+   <img align="center" alt="Deivite-VS-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" "">
+   <img align="center" alt="Deivite-VS-Code" height="30" width="105" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"">
+  
   <img align="right" alt="deivite-pic" height="150" style="border-radius:50px;" 
   src="https://i.picasion.com/pic91/0c39e983c86c7566d3bf864f52ffafca.gif"> 
  
