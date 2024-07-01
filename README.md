@@ -1,4 +1,5 @@
-### Olá! Eu sou o Deivite Oliveira 👋
+### Hello! I am Deivite Oliveira 👋
+I'm an undergraduate student in Computer Science at Universidade Anhembi Morumbi. Passionate about technology and coding, I am continually exploring new areas in the field to expand my knowledge and skills. My interests include software development, artificial intelligence, and data science. I'm eager to collaborate on innovative projects and contribute to the tech community.
 The sky is the limit 🌎
 
 <div align="center">
